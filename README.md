@@ -32,5 +32,5 @@ I believe in using the right tool for the job. My primary toolkit includes:
 ## 🛡 License
 Most of my projects are released under the MIT License unless otherwise specified. Stay curious.
 
----
+----
 > "Talk is cheap. Show me the code." — Linus Torvalds
