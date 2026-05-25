@@ -40,7 +40,7 @@ I am an **independent systems architect and anonymous developer** driven by a pa
 | **🌌 Aether Agent OS** | `Python` `YAML` `MCP` | **The Ultimate Agentic OS.** Features a strict 5-Phase software engineering lifecycle, 23 specialist personas, and cognitive loops. | `🟢 v4.12.4` |
 | **🌌 Particle Nexus** | `TypeScript` `Canvas` | **Emergent Particle-Life Simulation.** 6×6 force matrix, $O(n)$ cell-partitioned spatial grid neighbor indexing, and real-time interactive UI. | `🟢 Active` |
 | **🧬 Particle Accelerator** | `Python` `Math` | Simulation of electromagnetic particle behavior and trajectories in electromagnetic fields. | `🟡 Research` |
-| **🍽️ NoirBistro** | `HTML5` `CSS` `JS` | **Premium Culinary & Reservation Showcase.** Elegant minimalist dark dining UI, parallax photography, and animated menu transitions. | `🟢 v1.0.0` |
+| **🍽️ NordicBistro** | `HTML5` `CSS` `JS` | **Premium Culinary & Reservation Showcase.** Elegant minimalist dark dining UI, parallax photography, and animated menu transitions. | `🟢 v1.0.0` |
 
 ---
 
